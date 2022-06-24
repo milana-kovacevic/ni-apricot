@@ -1,14 +1,14 @@
 # ni-apricot
 ## Uvod
-Projekat za kurs Naucno izracunavanje http://ni.matf.bg.ac.rs/ 2021/2022 godine.
+Projekat je deo kursa Naucno izracunavanje http://ni.matf.bg.ac.rs/ koji se odrzava na Matematickom fakultetu, Univerziteta u Beogradu, 2021/2022 godine.
 Tema projekta je upoznavanje sa paketom Apricot (https://github.com/jmschrei/apricot) kroz primere.
 
-Apricot paket pruza nacin da se iz (potencijalno velikog) skupa podataka uzme njegov reprezentativni podskup, koristeci tehnike submodularne optimizacije.
-Primena je mnogostruka: na primer, za vizualizaciju i razumevanje podataka, kao i za generisanje skupa podataka za treniranje modela u masinskom ucenju (kada  zbog velicine skupa podataka nije moguce trenirati model u realnom vremenu, ili je to skupo).
-Detaljniji opis funkcionalnosti paketa se nalazi u svesci main.ipynb , a dodatni primeri upotrebe paketa u direktorijumu ./examples.
+Apricot paket pruza funkcionalnost da se iz (potencijalno velikog) skupa podataka izdvoji njegov reprezentativni podskup, koristeci tehnike submodularne optimizacije.
+Primena je mnogostruka, na primer: za vizualizaciju i razumevanje podataka, kao i za generisanje skupa podataka za treniranje modela u masinskom ucenju (kada  zbog velicine skupa podataka nije moguce trenirati model u realnom vremenu, ili je to skupo).
+Detaljniji opis funkcionalnosti paketa se nalazi u jupyter svesci *main.ipynb*, a dodatni primeri upotrebe paketa u direktorijumu *examples*.
 
 ## Potrebni paketi
-Jupyter sveska 00_hello_apricot sadrzi informacije o potrebnim paketima za funkcionisanje apricot bibiloteke i kako ih instalirati.
+Jupyter sveska *00_hello_apricot.ipynb* sadrzi informacije o potrebnim paketima i kako ih instalirati.
 Potrebni paketi su:
 1. numpy
 2. scipy
