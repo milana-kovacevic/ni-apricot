@@ -21,3 +21,4 @@ Potrebni paketi su:
 
 ## Korisni linkovi
 1. Detaljna zvanicna dokumentacija je dostupna na adresi https://apricot-select.readthedocs.io/en/latest/index.html
+2. Rad na temu apricot paketa: https://www.researchgate.net/publication/333678708_apricot_Submodular_selection_for_data_summarization_in_Python
